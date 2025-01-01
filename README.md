@@ -11,9 +11,11 @@
 ![GitHub Stars](https://img.shields.io/github/stars/luizGDpulz?style=social)
 
 </h1>
+</div>
+
 
 <div align="center">
-  <p style='font-weight: bold; font-size: 40px'> 🚀 Sobre mim </p>
+  <p style='font-weight: bold; font-size: 20px'> 🚀 Sobre mim </p>
   <p>
     🎓 Estudante de Desenvolvimento de Sistemas no Senac<br>   
     💼 Trabalhando como Freelancer e Auxiliar de Laboratório<br>
