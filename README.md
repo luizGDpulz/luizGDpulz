@@ -79,7 +79,11 @@
 
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5551992270465)
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/luizpulz)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:luizg.pulz@gmail.com) 
   [![GitHub Badge](https://img.shields.io/badge/-luizGDpulz-333?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/luizGDpulz)](https://github.com/luizGDpulz)
+
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:luizg.pulz@gmail.com) 
+  ![](https://img.shields.io/badge/luizg.pulz%40gmail.com-red)
+  ![](https://img.shields.io/badge/luizgustavodiaspulzoficial%40gmail.com-red)
+  
 
 </div>
