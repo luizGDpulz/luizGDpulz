@@ -13,19 +13,19 @@
 </h1>
 
 <div align="center">
-
-## 🚀 Sobre mim
-
- 🎓 Estudante de Desenvolvimento de Sistemas no Senac   
- 💼 Trabalhando como Freelancer e Auxiliar de Laboratório  
- 👨🏻‍💻 Aprendendo mais sobre APIs e Desenvolvimento Web  
- 💡 Explorando novas tecnologias e desenvolvendo soluções de software    
-
+  <p style='font-weight: bold; font-size: 20px'> 🚀 Sobre mim </p>
+  <p>
+    🎓 Estudante de Desenvolvimento de Sistemas no Senac<br>   
+    💼 Trabalhando como Freelancer e Auxiliar de Laboratório<br>
+    👨🏻‍💻 Aprendendo mais sobre APIs e Desenvolvimento Web<br>  
+    💡 Explorando novas tecnologias e desenvolvendo soluções de software 
+    </p> 
 </div>
 
 <div align="center">
 
-## 💻 Minhas Skills
+<h2></h2>
+<p style='font-weight: bold; font-size: 20px'> 💻 Minhas Skills </p>
 
 | Front-end | Back-end | Data-Base | Frameworks |
 |:-:|:-:|:-:|:-:|
@@ -38,8 +38,9 @@
 </div>
 
 <div align="center">
+<br>
+<p style='font-weight: bold; font-size: 20px'> 🔧Ferramentas e Utilidades⚙️ </p>
 
-### **🔧Ferramentas e Utilidades⚙️**
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -64,8 +65,9 @@
 </div>
 
 <div align="center">
+<h2></h2>
+<p style='font-weight: bold; font-size: 20px'> 🎯 Projetos em destaque </p>
 
-## 🎯 Projetos em destaque
 
 [![GerenciamentoEscolar](https://github-readme-stats.vercel.app/api/pin/?username=luizGDpulz&repo=GerenciamentoEscolar&theme=radical)](https://github.com/luizGDpulz/GerenciamentoEscolar)
 [![RestAPI-ManagementSystem](https://github-readme-stats.vercel.app/api/pin/?username=luizGDpulz&repo=RestAPI-ManagementSystem&theme=radical)](https://github.com/luizGDpulz/RestAPI-ManagementSystem)
@@ -77,19 +79,17 @@
 </div>
 
 <div align="center">
-
-## 📈 GitHub Stats
-
+  <h2></h2>
+  <p style='font-weight: bold; font-size: 20px'> 📈 GitHub Stats</p>
 
 ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizGDpulz&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizGDpulz&layout=compact&theme=radical)
 
-
 </div>
 
 <div align="center">
-
-## 📫 Onde me encontrar
+  <h2><h2>
+  <p style='font-weight: bold; font-size: 20px'> 📫 Onde me encontrar</p>
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5551992270465)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/luizpulz)
