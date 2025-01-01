@@ -13,7 +13,7 @@
 </h1>
 
 <div align="center">
-  <p style='font-weight: bold; font-size: 20px'> 🚀 Sobre mim </p>
+  <p style='font-weight: bold; font-size: 25px'> 🚀 Sobre mim </p>
   <p>
     🎓 Estudante de Desenvolvimento de Sistemas no Senac<br>   
     💼 Trabalhando como Freelancer e Auxiliar de Laboratório<br>
@@ -66,8 +66,7 @@
 
 <div align="center">
 <h2></h2>
-<p style='font-weight: bold; font-size: 20px'> 🎯 Projetos em destaque </p>
-
+<p style='font-weight: bold; font-size: 20px'> 🎯 Projetos em destaque</p>
 
 [![GerenciamentoEscolar](https://github-readme-stats.vercel.app/api/pin/?username=luizGDpulz&repo=GerenciamentoEscolar&theme=radical)](https://github.com/luizGDpulz/GerenciamentoEscolar)
 [![RestAPI-ManagementSystem](https://github-readme-stats.vercel.app/api/pin/?username=luizGDpulz&repo=RestAPI-ManagementSystem&theme=radical)](https://github.com/luizGDpulz/RestAPI-ManagementSystem)
@@ -80,7 +79,7 @@
 
 <div align="center">
   <h2></h2>
-  <p style='font-weight: bold; font-size: 20px'> 📈 GitHub Stats</p>
+  <p style='font-weight: bold; font-size: 20px'>📈 GitHub Stats</p>
 
 ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizGDpulz&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizGDpulz&layout=compact&theme=radical)
@@ -89,7 +88,7 @@
 
 <div align="center">
   <h2><h2>
-  <p style='font-weight: bold; font-size: 20px'> 📫 Onde me encontrar</p>
+  <p style='font-weight: bold; font-size: 20px'>📫 Onde me encontrar</p>
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5551992270465)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/luizpulz)
