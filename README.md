@@ -73,7 +73,7 @@
   ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizGDpulz&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizGDpulz&layout=compact&theme=radical)
 
-  <h2><h2>
+  <h2></h2>
 
   ### 📫 Onde me encontrar
 
