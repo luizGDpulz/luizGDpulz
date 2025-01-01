@@ -1,20 +1,18 @@
 <div align="center">
-    <img src="./banner.jpg" alt="Banner" width="auto" />
-</div>
+  <img src="./banner.jpg" alt="Banner" width="auto" />
 
-<div align="center">
-<p></p>
-<h1>👋 Olá, eu sou Luiz Gustavo 
+  <p></p>
+  <h1>👋 Olá, eu sou Luiz Gustavo 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=luizGDpulz&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/luizGDpulz?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/luizGDpulz?style=social)
 
 </h1>
-</div>
 
 
-<div align="center">
+
+
 
 <p style='font-weight: bold; font-size: 20px'> 🚀 Sobre mim </p>
 
@@ -24,9 +22,9 @@
     👨🏻‍💻 Aprendendo mais sobre APIs e Desenvolvimento Web<br>  
     💡 Explorando novas tecnologias e desenvolvendo soluções de software 
     </p> 
-</div>
 
-<div align="center">
+
+
 
 <h2></h2>
 <p style='font-weight: bold; font-size: 20px'> 💻 Minhas Skills </p>
@@ -39,9 +37,7 @@
 | ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) | 
 | | ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff) |
 
-</div>
 
-<div align="center">
 <br>
 <p style='font-weight: bold; font-size: 20px'> 🔧Ferramentas e Utilidades⚙️ </p>
 
@@ -66,9 +62,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
-</div>
 
-<div align="center">
 <h2></h2>
 <p style='font-weight: bold; font-size: 20px'> 🎯 Projetos em destaque</p>
 
@@ -79,18 +73,13 @@
 [![atividadeFinalLogicaDeProgramacao](https://github-readme-stats.vercel.app/api/pin/?username=luizGDpulz&repo=atividadeFinalLogicaDeProgramacao&theme=radical)](https://github.com/luizGDpulz/atividadeFinalLogicaDeProgramacao)
 [![contadorDeCedulasEmCpp](https://github-readme-stats.vercel.app/api/pin/?username=luizGDpulz&repo=contadorDeCedulasEmCpp&theme=radical)](https://github.com/luizGDpulz/contadorDeCedulasEmCpp)
 
-</div>
 
-<div align="center">
   <h2></h2>
   <p style='font-weight: bold; font-size: 20px'>📈 GitHub Stats</p>
 
 ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizGDpulz&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizGDpulz&layout=compact&theme=radical)
 
-</div>
-
-<div align="center">
   <h2><h2>
   <p style='font-weight: bold; font-size: 20px'>📫 Onde me encontrar</p>
 
