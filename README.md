@@ -4,17 +4,26 @@
 
 <div align="center">
 
-## 🚀 Sobre mim
-
- 🎓 Estudando Desenvolvimento de Sistemas no Senac.  
- 💼 Trabalhando como Freelancer e Auxiliar de Laboratório.  
- 🌱 Aprendendo mais sobre APIs e Desenvolvimento Web.  
- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.  
-
-## 💻 Minhas Skills
+# 👋 Olá, eu sou Luiz Gustavo
+![Profile Views](https://komarev.com/ghpvc/?username=luizGDpulz&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/luizGDpulz?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/luizGDpulz?style=social)
 </div>
 
 <div align="center">
+
+## 🚀 Sobre mim
+
+ 🎓 Estudante de Desenvolvimento de Sistemas no Senac   
+ 💼 Trabalhando como Freelancer e Auxiliar de Laboratório  
+ 👨🏻‍💻 Aprendendo mais sobre APIs e Desenvolvimento Web  
+ 💡 Explorando novas tecnologias e desenvolvendo soluções de software    
+
+</div>
+
+<div align="center">
+
+## 💻 Minhas Skills
 
 | Front-end | Back-end | Data-Base | Frameworks |
 |:-:|:-:|:-:|:-:|
@@ -28,7 +37,7 @@
 
 <div align="center">
 
-### **Ferramentas e Utilidades**
+### **🔧Ferramentas e Utilidades⚙️**
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -54,8 +63,7 @@
 
 <div align="center">
 
-## 🎯 Featured Projects
-
+## 🎯 Projetos em destaque
 
 [![GerenciamentoEscolar](https://github-readme-stats.vercel.app/api/pin/?username=luizGDpulz&repo=GerenciamentoEscolar&theme=radical)](https://github.com/luizGDpulz/GerenciamentoEscolar)
 [![RestAPI-ManagementSystem](https://github-readme-stats.vercel.app/api/pin/?username=luizGDpulz&repo=RestAPI-ManagementSystem&theme=radical)](https://github.com/luizGDpulz/RestAPI-ManagementSystem)
@@ -84,8 +92,8 @@
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/luizpulz)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:luizg.pulz@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:luizg.pulz@gmail.com) 
 
-[![GitHub](https://img.shields.io/github/followers/luizGDpulz?label=follow&style=social)](https://github.com/luizGDpulz)
+[![GitHub Badge](https://img.shields.io/badge/-luizGDpulz-333?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/luizGDpulz)](https://github.com/luizGDpulz)
 
 </div>
