@@ -15,7 +15,7 @@
 
 
 <div align="center">
-  <p style='font-weight: bold; font-size: 20px'> 🚀 Sobre mim </p>
+**<p style='font-weight: bold; font-size: 20px'> 🚀 Sobre mim </p>**
   <p>
     🎓 Estudante de Desenvolvimento de Sistemas no Senac<br>   
     💼 Trabalhando como Freelancer e Auxiliar de Laboratório<br>
