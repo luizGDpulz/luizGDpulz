@@ -13,8 +13,8 @@
   ### 🚀 Sobre mim
 
   <p>
+    💼 Desenvolvedor Full Stack Trabalhando como Freelancer e Auxiliar de Laboratório<br>
     🎓 Estudante de Desenvolvimento de Sistemas no Senac<br>   
-    💼 Trabalhando como Freelancer e Auxiliar de Laboratório<br>
     👨🏻‍💻 Aprendendo mais sobre APIs e Desenvolvimento Web<br>  
     💡 Explorando novas tecnologias e desenvolvendo soluções de software 
     </p> 
