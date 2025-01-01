@@ -78,9 +78,10 @@
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/luizGDpulz" title="Perfil do Luiz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizGDpulz&theme=dracula&show_icons=true" />
-</a>
+
+![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizGDpulz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizGDpulz&layout=compact&theme=radical)
+
 
 </div>
 
@@ -89,11 +90,8 @@
 ## 📫 Onde me encontrar
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5551992270465)
-
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/luizpulz)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:luizg.pulz@gmail.com) 
-
 [![GitHub Badge](https://img.shields.io/badge/-luizGDpulz-333?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/luizGDpulz)](https://github.com/luizGDpulz)
 
 </div>
