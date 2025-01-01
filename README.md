@@ -1,4 +1,3 @@
-
 <div align="center">
     <img src="./logo5.jpg" alt="Banner" width="800" />
 </div>
@@ -32,25 +31,18 @@
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-## 📂 Projetos Fixados
+## 🎯 Featured Projects
 
-### 1. [gerenciamento-Escolar](https://github.com/gdbarros94/gerenciamento-Escolar)
-- Um sistema de gerenciamento escolar desenvolvido em HTML.
+<div align="center">
 
-### 2. [RestAPI-ManagementSystem](https://github.com/gdbarros94/RestAPI-ManagementSystem)
-- Sistema de gerenciamento de API desenvolvido em PHP.
+[![GerenciamentoEscolar](https://github-readme-stats.vercel.app/api/pin/?username=luizGDpulz&repo=GerenciamentoEscolar&theme=radical)](https://github.com/luizGDpulz/GerenciamentoEscolar.git)
+[![RestAPI-ManagementSystem](https://github-readme-stats.vercel.app/api/pin/?username=luizGDpulz&repo=RestAPI-ManagementSystem&theme=radical)](https://github.com/luizGDpulz/RestAPI-ManagementSystem)
+[![binaryAdderWithArduino](https://github-readme-stats.vercel.app/api/pin/?username=luizGDpulz&repo=binaryAdderWithArduino&theme=radical)](https://github.com/luizGDpulz/binaryAdderWithArduino)
+[![Flask-SQLAlchemy-CRUD](https://github-readme-stats.vercel.app/api/pin/?username=luizGDpulz&repo=Flask-SQLAlchemy-CRUD&theme=radical)](https://github.com/luizGDpulz/Flask-SQLAlchemy-CRUD)
+[![atividadeFinalLogicaDeProgramacao](https://github-readme-stats.vercel.app/api/pin/?username=luizGDpulz&repo=atividadeFinalLogicaDeProgramacao&theme=radical)](https://github.com/luizGDpulz/atividadeFinalLogicaDeProgramacao)
+[![contadorDeCedulasEmCpp](https://github-readme-stats.vercel.app/api/pin/?username=luizGDpulz&repo=contadorDeCedulasEmCpp&theme=radical)](https://github.com/luizGDpulz/contadorDeCedulasEmCpp)
 
-### 3. [binaryAdderWithArduino](https://github.com/gdbarros94/binaryAdderWithArduino)
-- Um projeto de adição binária utilizando Arduino em C++.
-
-### 4. [Flask-SQLAlchemy-CRUD](https://github.com/gdbarros94/Flask-SQLAlchemy-CRUD)
-- Exemplo de CRUD utilizando Flask e SQLAlchemy em Python.
-
-### 5. [atividadeFinalLogicaDeProgramacao](https://github.com/gdbarros94/atividadeFinalLogicaDeProgramacao)
-- Projeto final de lógica de programação em C++.
-
-### 6. [contadorDeCedulasEmCpp](https://github.com/gdbarros94/contadorDeCedulasEmCpp)
-- Contador de cédulas desenvolvido em C++.
+</div>
 
 ## 📈 GitHub Stats
 
