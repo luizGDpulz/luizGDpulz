@@ -2,6 +2,8 @@
     <img src="./banner.jpg" alt="Banner" width="auto" />
 </div>
 
+<div align="center">
+
 ## 🚀 Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -10,6 +12,7 @@
 - 🌱 Aprendendo mais sobre APIs e Desenvolvimento Web.
 
 ## 💻 Minhas Skills
+</div>
 
 <div align="center">
 
@@ -21,7 +24,9 @@
 | ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) | 
 | | ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff) |
 
+</div>
 
+<div align="center">
 
 ### **Ferramentas e Utilidades**
 
@@ -47,11 +52,12 @@
 
 </div>
 
-## 🎯 Featured Projects
-
 <div align="center">
 
-[![GerenciamentoEscolar](https://github-readme-stats.vercel.app/api/pin/?username=luizGDpulz&repo=GerenciamentoEscolar&theme=radical)](https://github.com/luizGDpulz/GerenciamentoEscolar.git)
+## 🎯 Featured Projects
+
+
+[![GerenciamentoEscolar](https://github-readme-stats.vercel.app/api/pin/?username=luizGDpulz&repo=GerenciamentoEscolar&theme=radical)](https://github.com/luizGDpulz/GerenciamentoEscolar)
 [![RestAPI-ManagementSystem](https://github-readme-stats.vercel.app/api/pin/?username=luizGDpulz&repo=RestAPI-ManagementSystem&theme=radical)](https://github.com/luizGDpulz/RestAPI-ManagementSystem)
 [![binaryAdderWithArduino](https://github-readme-stats.vercel.app/api/pin/?username=luizGDpulz&repo=binaryAdderWithArduino&theme=radical)](https://github.com/luizGDpulz/binaryAdderWithArduino)
 [![Flask-SQLAlchemy-CRUD](https://github-readme-stats.vercel.app/api/pin/?username=luizGDpulz&repo=Flask-SQLAlchemy-CRUD&theme=radical)](https://github.com/luizGDpulz/Flask-SQLAlchemy-CRUD)
@@ -60,16 +66,26 @@
 
 </div>
 
+<div align="center">
+
 ## 📈 GitHub Stats
 
 <a href="https://github.com/luizGDpulz" title="Perfil do Luiz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizGDpulz&theme=dracula&show_icons=true" />
 </a>
 
+</div>
+
+<div align="center">
+
 ## 📫 Onde me encontrar
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5551992270465)
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/luizpulz)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:luizg.pulz@gmail.com)
 
 [![GitHub](https://img.shields.io/github/followers/luizGDpulz?label=follow&style=social)](https://github.com/luizGDpulz)
+
+</div>
