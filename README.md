@@ -6,10 +6,10 @@
 
 ## 🚀 Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Desenvolvimento de Sistemas no Senac.
-- 💼 Trabalhando como Freelancer e Auxiliar de Laboratório.
-- 🌱 Aprendendo mais sobre APIs e Desenvolvimento Web.
+ 🎓 Estudando Desenvolvimento de Sistemas no Senac.  
+ 💼 Trabalhando como Freelancer e Auxiliar de Laboratório.  
+ 🌱 Aprendendo mais sobre APIs e Desenvolvimento Web.  
+ 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.  
 
 ## 💻 Minhas Skills
 </div>
