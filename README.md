@@ -1,4 +1,7 @@
-# 🤔 Olá, eu sou Luiz Gustavo Dias Pulz
+
+<div align="center">
+    <img src="./logo5.jpg" alt="Banner" width="800" />
+</div>
 
 ## 🚀 Sobre mim
 
@@ -11,7 +14,7 @@
 
 <div align="center">
 
-| Front-end | Back-end | DataBase | Frameworks |
+| Front-end | Back-end | Data-Base | Frameworks |
 |:-:|:-:|:-:|:-:|
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) |
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E) | ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117) |
@@ -21,11 +24,13 @@
 </div>
 
 ### **Ferramentas e Utilidades**
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 ## 📂 Projetos Fixados
 
@@ -55,6 +60,8 @@
 
 ## 📫 Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-luizgd-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizgd/)](https://www.linkedin.com/in/luizgd/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luizpulz)
+
 [![Gmail Badge](https://img.shields.io/badge/-luizgd@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizgd@gmail.com)](mailto:luizgd@gmail.com)
+
 [![GitHub](https://img.shields.io/github/followers/luizGDpulz?label=follow&style=social)](https://github.com/luizGDpulz)
