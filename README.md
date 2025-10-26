@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="./banner.jpg" alt="Banner" width="auto" />
+  <img src="./banner.jpg" alt="Banner" width="auto"/>
 
   <p></p>
-  <h1>👋 Olá, eu sou Luiz Gustavo 
+  <h1>👋 Olá, eu sou Luiz Gustavo D. Pulz
 
   ![Profile Views](https://komarev.com/ghpvc/?username=luizGDpulz&color=blue)
   ![GitHub Followers](https://img.shields.io/github/followers/luizGDpulz?label=Followers&style=social)
