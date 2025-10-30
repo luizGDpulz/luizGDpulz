@@ -13,7 +13,7 @@
   <p>
     💼 Desenvolvedor Full Stack Trabalhando como Freelancer e Analista de Suporte<br>
     🎓 Estudante de Desenvolvimento de Sistemas no Senac<br>   
-    👨🏻‍💻 Aprofundando estudos em APIs, Desenvolvimento Web e Desenvolvimento Mobile<br>  
+    👨🏻‍💻 Aprofundando estudos em APIs, Desenvolvimento Web e Desenvolvimento Mobile Android<br>  
     💡 Explorando novas tecnologias e desenvolvendo soluções de software 
     </p> 
 
