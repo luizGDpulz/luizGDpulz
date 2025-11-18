@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="./banner.jpg">
   <p></p>
   <h1>👋 Olá, eu sou Luiz Gustavo D. Pulz
 
