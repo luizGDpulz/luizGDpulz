@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Dinâmico Venom com Paleta Idêntica ao Rodapé -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:E52D27,50:8E54E9,100:00C6FF&section=header&reversal=false&text=Luiz+Gustavo+D.+Pulz&textBg=false&fontSize=52&fontAlign=50&fontAlignY=48&animation=fadeIn&rotate=0&strokeWidth=0&desc=Software+Engineer+%7C+Systems+Architect+%7C+Full-Stack&descSize=20&descAlign=50&descAlignY=70" width="100%" alt="Header Luiz Pulz" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:E52D27,50:8E54E9,100:00C6FF&section=header&reversal=false&text=Luiz+Gustavo+D.+Pulz&textBg=false&fontSize=52&fontColor=FFFFFF&fontAlign=50&fontAlignY=48&stroke=0D1117&strokeWidth=1.5&animation=fadeIn&rotate=0&desc=Software+Engineer+%7C+Systems+Architect+%7C+Full-Stack&descSize=20&descColor=FFFFFF&descAlign=50&descAlignY=70" width="100%" alt="Header Luiz Pulz" />
 
 <!-- Badges de Acesso Rápido (Rounded) -->
 <p align="center">
@@ -96,7 +96,7 @@ Desenvolvedor Full-Stack e Arquiteto de Software focado em transformar problemas
 
 <!-- Menu Expansível / Recolhível da Cobrinha -->
 <details align="center">
-  <summary><b>🐍 Jogo da Cobrinha de Contribuições (Expandir / Recolher)</b></summary>
+  <summary><b>🐍 Contribuições (Expandir / Recolher)</b></summary>
   <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizGDpulz/luizGDpulz/output/github-contribution-grid-snake-dark.svg">
