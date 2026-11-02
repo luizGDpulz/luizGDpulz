@@ -1,20 +1,17 @@
 <div align="center">
 
-<!-- Banner Dinâmico com Gradiente Waving -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=180&section=header&text=Luiz%20Pulz&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Systems%20Architect%20%7C%20Full-Stack&descSize=18&descAlignY=68" width="100%" alt="Header Luiz Pulz" />
+<!-- Banner Dinâmico Venom com Variação em Tons de Vermelho, Roxo e Azul -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,7,9,10,13,16,20,24,27&section=header&reversal=false&text=Luiz+Gustavo+D.+Pulz&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&desc=Software+Engineer+%7C+Systems+Architect+%7C+Full-Stack&descSize=25&descAlign=50&descAlignY=70" width="100%" alt="Header Luiz Pulz" />
 
-<!-- Badges de Acesso Rápido -->
+<!-- Badges de Acesso Rápido (Rounded) -->
 <p align="center">
-  <a href="https://pulz.dev.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-pulz.dev.br-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/luizpulz"><img src="https://img.shields.io/badge/LinkedIn-Luiz%20Pulz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:luizg.pulz@gmail.com"><img src="https://img.shields.io/badge/Email-luizg.pulz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.me/5551992270465"><img src="https://img.shields.io/badge/WhatsApp-Contato%20Direto-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://pulz.dev.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-pulz.dev.br-0D1117?style=flat&logo=googlechrome&logoColor=58A6FF" height="26" alt="Portfolio" /></a>
 </p>
 
-<!-- Métricas & Especialidade -->
+<!-- Métricas & Especialidade (Rounded) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Architecture-Clean%20%7C%20DDD%20%7C%20ADRs-0969DA?style=flat-square" alt="Architecture" />
-  <img src="https://komarev.com/ghpvc/?username=luizGDpulz&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Architecture-Clean%20%7C%20DDD%20%7C%20ADRs-0969DA?style=flat" height="22" alt="Architecture" />
+  <img src="https://komarev.com/ghpvc/?username=luizGDpulz&style=flat&color=58A6FF&label=Profile+Views" height="22" alt="Profile Views" />
 </p>
 
 </div>
@@ -116,17 +113,28 @@ Containers, automação CI/CD, servidores Linux, proxy reverso e protocolos de I
 
 ---
 
+### 🖥️ Infraestrutura & Homelab ("Millennium Falcon")
+
+* 🐧 **Host:** Linux VPS Ubuntu Server LTS
+* 🐳 **Containerização:** Docker & Docker Compose com publicação em GitHub Container Registry (`ghcr.io`)
+* 🌐 **Borda & Segurança:** Cloudflare Edge com Wildcard Proxy (`*.pulz.dev.br`) & Nginx Proxy Manager sobre redes internas isoladas (`proxy-net`)
+* 📚 **Central de Memória:** Vault *Mind* (Obsidian), sincronizado entre Linux e Desktop com diretrizes de engenharia versionadas (`AGENTS.md`)
+
+---
+
 ### 📫 Conecte-se comigo
 
 <div align="center">
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-pulz.dev.br-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://pulz.dev.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Pulz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizpulz)
-[![Email](https://img.shields.io/badge/Email-luizg.pulz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizg.pulz@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551992270465)
+<p align="center">
+  <a href="https://pulz.dev.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-pulz.dev.br-0D1117?style=flat&logo=googlechrome&logoColor=58A6FF" height="28" alt="Portfólio" /></a>
+  <a href="https://linkedin.com/in/luizpulz"><img src="https://img.shields.io/badge/LinkedIn-Luiz%20Pulz-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
+  <a href="mailto:luizg.pulz@gmail.com"><img src="https://img.shields.io/badge/Email-luizg.pulz%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
+  <a href="https://wa.me/5551992270465"><img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=flat&logo=whatsapp&logoColor=white" height="28" alt="WhatsApp" /></a>
+</p>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=100&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,9,10,13,16,20,24,27&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
