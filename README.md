@@ -1,42 +1,38 @@
 <div align="center">
 
-<!-- Banner Dinâmico Venom com Variação em Tons de Vermelho, Roxo e Azul -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,7,9,10,13,16,20,24,27&section=header&reversal=false&text=Luiz+Gustavo+D.+Pulz&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&desc=Software+Engineer+%7C+Systems+Architect+%7C+Full-Stack&descSize=25&descAlign=50&descAlignY=70" width="100%" alt="Header Luiz Pulz" />
+<!-- Banner Dinâmico Venom com Paleta Idêntica ao Rodapé -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:E52D27,50:8E54E9,100:00C6FF&section=header&reversal=false&text=Luiz+Gustavo+D.+Pulz&textBg=false&fontSize=52&fontAlign=50&fontAlignY=48&animation=fadeIn&rotate=0&strokeWidth=0&desc=Software+Engineer+%7C+Systems+Architect+%7C+Full-Stack&descSize=20&descAlign=50&descAlignY=70" width="100%" alt="Header Luiz Pulz" />
 
 <!-- Badges de Acesso Rápido (Rounded) -->
 <p align="center">
   <a href="https://pulz.dev.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-pulz.dev.br-0D1117?style=flat&logo=googlechrome&logoColor=58A6FF" height="26" alt="Portfolio" /></a>
-</p>
-
-<!-- Métricas & Especialidade (Rounded) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Architecture-Clean%20%7C%20DDD%20%7C%20ADRs-0969DA?style=flat" height="22" alt="Architecture" />
-  <img src="https://komarev.com/ghpvc/?username=luizGDpulz&style=flat&color=58A6FF&label=Profile+Views" height="22" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=luizGDpulz&style=flat&color=58A6FF&label=Profile+Views" height="26" alt="Profile Views" />
 </p>
 
 </div>
 
 ---
 
-### ⚡ Sobre Mim & Filosofia de Engenharia
+<h3 align="center">⚡ Sobre Mim & Filosofia de Engenharia</h3>
 
-> *"O conhecimento dita o código. Sistemas resilientes, arquitetura limpa e precisão técnica."*
+<p align="center">
+  <em>"O conhecimento dita o código. Sistemas resilientes, arquitetura limpa e precisão técnica."</em>
+</p>
 
 Desenvolvedor Full-Stack e Arquiteto de Software focado em transformar problemas operacionais e de negócio complexos em software previsível, veloz, seguro e auditável — de aplicações web modernas a motores de processamento de dados e automação assíncrona.
 
 - 🏛️ **Arquitetura & Engenharia de Software:** Aplicação prática de *Domain-Driven Design* (DDD), *Clean Architecture*, separação estrita de responsabilidades e registro contínuo de decisões técnicas via **ADRs** (*Architectural Decision Records*).
 - 📚 **Documentação & SSOT:** Engenharia orientada a documentação como Fonte Única da Verdade. O código nasce primeiro a partir de modelo de domínio, restrições e alinhamento de arquitetura antes da implementação.
-- ⚙️ **Infraestrutura & DevOps:** Administração e operação de servidores Linux, containerização com Docker (multi-stage, hardening), automação de pipelines CI/CD com GitHub Actions e publicação automatizada via **GHCR**.
 - 🤖 **IA & Protocolos Abertos (MCP):** Engenharia de integrações autônomas e servidores **MCP** (*Model Context Protocol*) em TypeScript para orquestração de LLMs (NVIDIA NIM), automações headless e ferramentas corporativas.
 
 ---
 
-### 🛠️ Matriz de Tecnologias & Especialidades
+<h3 align="center">🛠️ Matriz de Tecnologias & Especialidades</h3>
 
 <div align="center">
 
-#### Frontend & Engenharia de UI
-Interfaces reativas, sistemas de design utilitários, SSR/SSG de alto desempenho e SPA modernas.
+<h4 align="center">Frontend & Engenharia de UI</h4>
+<p align="center">Interfaces reativas, sistemas de design utilitários, SSR/SSG de alto desempenho e SPA modernas.</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -44,8 +40,8 @@ Interfaces reativas, sistemas de design utilitários, SSR/SSG de alto desempenho
   </a>
 </p>
 
-#### Backend & Sistemas Distribuídos
-APIs modulares, daemons assíncronos, migrações de dados em memória e microsserviços.
+<h4 align="center">Backend & Sistemas Distribuídos</h4>
+<p align="center">APIs modulares, daemons assíncronos, migrações de dados em memória e microsserviços.</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -53,8 +49,8 @@ APIs modulares, daemons assíncronos, migrações de dados em memória e micross
   </a>
 </p>
 
-#### Bancos de Dados & Persistência
-Modelagem relacional estrita, integridade referencial, queries de alta precisão e caching.
+<h4 align="center">Bancos de Dados & Persistência</h4>
+<p align="center">Modelagem relacional estrita, integridade referencial, queries de alta precisão e caching.</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -62,8 +58,8 @@ Modelagem relacional estrita, integridade referencial, queries de alta precisão
   </a>
 </p>
 
-#### DevOps, Infraestrutura & Ferramental
-Containers, automação CI/CD, servidores Linux, proxy reverso e protocolos de IA.
+<h4 align="center">DevOps, Infraestrutura & Ferramental</h4>
+<p align="center">Containers, automação CI/CD, servidores Linux, proxy reverso e protocolos de IA.</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -75,7 +71,7 @@ Containers, automação CI/CD, servidores Linux, proxy reverso e protocolos de I
 
 ---
 
-### 🎯 Vitrine Técnica & Projetos em Destaque
+<h3 align="center">🎯 Vitrine Técnica & Projetos em Destaque</h3>
 
 | Projeto | Domínio / Arquitetura | Stack Principal | Repositório |
 | :--- | :--- | :--- | :---: |
@@ -88,20 +84,9 @@ Containers, automação CI/CD, servidores Linux, proxy reverso e protocolos de I
 
 ---
 
-### 📊 Métricas & Atividade no GitHub
+<h3 align="center">📊 Métricas & Atividade no GitHub</h3>
 
 <div align="center">
-
-<!-- Snake de Contribuições (Gerada 100% nativa via GitHub Actions na branch output) -->
-<h4>🐍 Contribution Rhythm</h4>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizGDpulz/luizGDpulz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizGDpulz/luizGDpulz/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/luizGDpulz/luizGDpulz/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-<br><br>
 
 <!-- Cards de Estatísticas com Estilo Consistente GitHub Dark -->
 <p align="center">
@@ -109,11 +94,22 @@ Containers, automação CI/CD, servidores Linux, proxy reverso e protocolos de I
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luizGDpulz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="170" />
 </p>
 
+<!-- Menu Expansível / Recolhível da Cobrinha -->
+<details align="center">
+  <summary><b>🐍 Jogo da Cobrinha de Contribuições (Expandir / Recolher)</b></summary>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizGDpulz/luizGDpulz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizGDpulz/luizGDpulz/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/luizGDpulz/luizGDpulz/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</details>
+
 </div>
 
 ---
 
-### 🖥️ Infraestrutura & Homelab ("Millennium Falcon")
+<h3 align="center">🖥️ Infraestrutura & Homelab ("Millennium Falcon")</h3>
 
 * 🐧 **Host:** Linux VPS Ubuntu Server LTS
 * 🐳 **Containerização:** Docker & Docker Compose com publicação em GitHub Container Registry (`ghcr.io`)
@@ -122,7 +118,7 @@ Containers, automação CI/CD, servidores Linux, proxy reverso e protocolos de I
 
 ---
 
-### 📫 Conecte-se comigo
+<h3 align="center">📫 Conecte-se comigo</h3>
 
 <div align="center">
 
@@ -135,6 +131,6 @@ Containers, automação CI/CD, servidores Linux, proxy reverso e protocolos de I
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,9,10,13,16,20,24,27&height=100&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E52D27,50:8E54E9,100:00C6FF&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
