@@ -109,15 +109,6 @@ Desenvolvedor Full-Stack e Arquiteto de Software focado em transformar problemas
 
 ---
 
-<h3 align="center">🖥️ Infraestrutura & Homelab ("Millennium Falcon")</h3>
-
-* 🐧 **Host:** Linux VPS Ubuntu Server LTS
-* 🐳 **Containerização:** Docker & Docker Compose com publicação em GitHub Container Registry (`ghcr.io`)
-* 🌐 **Borda & Segurança:** Cloudflare Edge com Wildcard Proxy (`*.pulz.dev.br`) & Nginx Proxy Manager sobre redes internas isoladas (`proxy-net`)
-* 📚 **Central de Memória:** Vault *Mind* (Obsidian), sincronizado entre Linux e Desktop com diretrizes de engenharia versionadas (`AGENTS.md`)
-
----
-
 <h3 align="center">📫 Conecte-se comigo</h3>
 
 <div align="center">
