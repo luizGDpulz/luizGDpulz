@@ -29,58 +29,109 @@ Desenvolvedor Full-Stack e Arquiteto de Software focado em transformar problemas
 
 <h3 align="center">🛠️ Matriz de Tecnologias & Especialidades</h3>
 
-<div align="center">
-
-<h4 align="center">Frontend & Engenharia de UI</h4>
-<p align="center">Interfaces reativas, sistemas de design utilitários, SSR/SSG de alto desempenho e SPA modernas.</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,ts,astro,tailwind,react,html,css,sass,vite" alt="Frontend Skills" />
-  </a>
-</p>
-
-<h4 align="center">Backend & Sistemas Distribuídos</h4>
-<p align="center">APIs modulares, daemons assíncronos, migrações de dados em memória e microsserviços.</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,cs,php,py,express" alt="Backend Skills" />
-  </a>
-</p>
-
-<h4 align="center">Bancos de Dados & Persistência</h4>
-<p align="center">Modelagem relacional estrita, integridade referencial, queries de alta precisão e caching.</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma,redis" alt="Databases" />
-  </a>
-</p>
-
-<h4 align="center">DevOps, Infraestrutura & Ferramental</h4>
-<p align="center">Containers, automação CI/CD, servidores Linux, proxy reverso e protocolos de IA.</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,nginx,cloudflare,git,postman" alt="DevOps & Tools" />
-  </a>
-</p>
-
-</div>
+| Camada / Domínio | Especialidades & Aplicação Prática | Ecossistema & Ferramentas |
+| :--- | :--- | :---: |
+| **Frontend & UI** | Interfaces reativas, SSR/SSG de alta performance, SPAs modernas e sistemas de design utilitários.<br><sub><b>Stack:</b> Vue 3 · Quasar · TypeScript · Astro · Tailwind CSS · React · Vite · SASS</sub> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vue,ts,astro,tailwind,react,html,css,sass,vite" height="34" /></a> |
+| **Backend & Sistemas** | APIs modulares, daemons assíncronos, migrações de dados em memória e arquiteturas orientadas a eventos.<br><sub><b>Stack:</b> Node.js · NestJS · C# (.NET 8) · PHP 8 · Express · Python</sub> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,cs,php,py,express" height="34" /></a> |
+| **Bancos de Dados** | Modelagem relacional estrita, integridade referencial, queries de alta precisão e caching distribuído.<br><sub><b>Stack:</b> PostgreSQL · SQL Server · MariaDB · MySQL · SQLite · Prisma ORM · Redis</sub> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma,redis" height="34" /></a> |
+| **DevOps & Infra** | Containers hardened, automação CI/CD, servidores Linux, proxy reverso e protocolos de IA.<br><sub><b>Stack:</b> Docker · Linux / VPS · GitHub Actions · Nginx · Cloudflare · Git · Postman</sub> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,linux,githubactions,nginx,cloudflare,git,postman" height="34" /></a> |
 
 ---
 
 <h3 align="center">🎯 Vitrine Técnica & Projetos em Destaque</h3>
 
-| Projeto | Domínio / Arquitetura | Stack Principal | Repositório |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center"><b>QueueMaster</b></h4>
+      <p align="center"><em>Sistema Híbrido de Filas & Agendamentos em Tempo Real</em></p>
+      <a href="https://github.com/luizGDpulz/QueueMaster">
+        <img src="assets/queuemaster_dashboard_view.png" alt="QueueMaster Dashboard" width="100%" />
+      </a>
+      <br><br>
+      <p align="justify">
+        Plataforma unificada que orquestra filas físicas (<em>walk-ins</em>) e atendimentos marcados com priorização determinística, atualizações em tempo real via <b>Server-Sent Events (SSE)</b> e autenticação Google OAuth 2.0 com tokens JWT RS256.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat&logo=vue.js&logoColor=white" height="20" />
+        <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat&logo=quasar&logoColor=white" height="20" />
+        <img src="https://img.shields.io/badge/PHP_8-777BB4?style=flat&logo=php&logoColor=white" height="20" />
+        <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" height="20" />
+        <img src="https://img.shields.io/badge/SSE-Realtime-007ACC?style=flat" height="20" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/luizGDpulz/QueueMaster"><b>Explorar Repositório no GitHub ↗</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center"><b>AFDMaster</b></h4>
+      <p align="center"><em>Análise, Validação & Síntese de Arquivos Fiscais</em></p>
+      <a href="https://github.com/luizGDpulz/AFDMaster">
+        <img src="assets/afdmaster_screen.png" alt="AFDMaster Screen" width="100%" />
+      </a>
+      <br><br>
+      <p align="justify">
+        Aplicação <em>Zero-Backend</em> (Privacy-First) em memória para inspeção posicional, conformidade legal de ponto eletrônico (REP) e recálculo determinístico de checksum <b>CRC-16</b> sem risco de vazamento de dados trabalhistas sensíveis.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat&logo=vue.js&logoColor=white" height="20" />
+        <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat&logo=pinia&logoColor=black" height="20" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" height="20" />
+        <img src="https://img.shields.io/badge/CRC--16-Crypto-orange?style=flat" height="20" />
+        <img src="https://img.shields.io/badge/Zero--Backend-Privacy-2ea44f?style=flat" height="20" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/luizGDpulz/AFDMaster"><b>Explorar Repositório no GitHub ↗</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center"><b>mcp-nvidia-nim</b></h4>
+      <p align="center"><em>Model Context Protocol Server para NVIDIA NIM</em></p>
+      <p align="justify">
+        Servidor MCP em TypeScript para orquestração de LLMs de última geração (Nemotron 550B, Mistral Large, Llama 3.2 Vision) com <em>fallback chains</em> automáticas para raciocínio profundo, revisão de código e visão computacional.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="20" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="20" />
+        <img src="https://img.shields.io/badge/NVIDIA-NIM_AI-76B900?style=flat&logo=nvidia&logoColor=white" height="20" />
+        <img src="https://img.shields.io/badge/MCP-Protocol-7C3AED?style=flat" height="20" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/luizGDpulz/mcp-nvidia-nim"><b>Explorar Repositório no GitHub ↗</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center"><b>sidepot-poker</b></h4>
+      <p align="center"><em>Motor Matemático de Side Pots & Gestão de Fichas</em></p>
+      <p align="justify">
+        Motor determinístico com algoritmo de fatiamento iterativo para múltiplos potes paralelos (<em>side-pots</em>) em situações de <em>all-in</em> assimétrico, validação estrita de invariância de conservação de fichas e testes unitários rigorosos.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="20" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="20" />
+        <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" height="20" />
+        <img src="https://img.shields.io/badge/Algorithms-Math-0969DA?style=flat" height="20" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/luizGDpulz/sidepot-poker"><b>Explorar Repositório no GitHub ↗</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>🔍 Outros Projetos & Ferramentas Corporativas</b></summary>
+  <br>
+
+| Projeto | Domínio / Arquitetura | Stack Principal | Link |
 | :--- | :--- | :--- | :---: |
-| **[QueueMaster](https://github.com/luizGDpulz/QueueMaster)** | **Sistema Híbrido de Filas & Agendamentos em Tempo Real**<br>Orquestra filas físicas (*walk-ins*) e horários agendados em fluxo unificado, push reativo via SSE (*Server-Sent Events*) e auth Google OAuth 2.0 com JWT RS256. | `Vue 3` `Quasar` `PHP 8` `MariaDB` `SSE` | [Repositório ↗](https://github.com/luizGDpulz/QueueMaster) |
-| **[AFDMaster](https://github.com/luizGDpulz/AFDMaster)** | **Análise, Edição & Síntese de Arquivos Fiscais AFD**<br>Aplicação *Zero-Backend* (*Privacy-First*) em memória para inspeção posicional, conformidade MTE e recálculo determinístico de checksum CRC-16 sem vazamento de dados sensíveis. | `Vue 3` `Pinia` `Quasar` `CRC-16` `Vite` | [Repositório ↗](https://github.com/luizGDpulz/AFDMaster) |
-| **[mcp-nvidia-nim](https://github.com/luizGDpulz/mcp-nvidia-nim)** | **Model Context Protocol Server para NVIDIA NIM**<br>Servidor MCP em TypeScript integrando modelos estado da arte (Nemotron 550B, Mistral Large, Llama 3.2 Vision) com fallback chains para raciocínio profundo e visão computacional. | `TypeScript` `Node.js` `MCP SDK` `NVIDIA AI` | [Repositório ↗](https://github.com/luizGDpulz/mcp-nvidia-nim) |
-| **[sidepot-poker](https://github.com/luizGDpulz/sidepot-poker)** | **Motor Matemático de Side Pots & Gestão de Fichas**<br>Algoritmo de fatiamento iterativo para múltiplos *all-ins* assimétricos, validação de invariância de fichas e sincronização em tempo real para torneios e home games. | `TypeScript` `Node.js` `Jest` | [Repositório ↗](https://github.com/luizGDpulz/sidepot-poker) |
-| **[Secullum DB Migrations](https://github.com/luizGDpulz)** | **Migração Corporativa de Dados em Memória**<br>Ferramenta de engenharia para extração, transformação e carga com grafo de dependências de chaves estrangeiras, imutabilidade da origem e integridade referencial estrita. | `C#` `.NET 8` `SQL Server` | [Privado / Core] |
-| **[pulz.dev.br](https://pulz.dev.br)** | **Portfólio Pessoal & Plataforma de Engenharia**<br>Construído com Astro, TypeScript, internacionalização nativa (PT-BR / EN) e integração contínua de metadados do GitHub em tempo de build. | `Astro` `TypeScript` `Tailwind CSS` | [Site Oficial ↗](https://pulz.dev.br) |
+| **Secullum DB Migrations** | Pipeline de migração in-memory com resolução de grafo de chaves estrangeiras, imutabilidade da base legada e integridade estrita. | `C#` `.NET 8` `SQL Server` | *Privado / Core* |
+| **pulz.dev.br** | Plataforma de engenharia e portfólio pessoal com renderização SSG em Astro, internacionalização completa e sync de repositórios. | `Astro` `TypeScript` `Tailwind CSS` | [pulz.dev.br ↗](https://pulz.dev.br) |
+| **mcp-spotify-curator** | Curadoria autônoma de playlists e inteligência musical via Model Context Protocol. | `TypeScript` `Spotify API` `MCP` | [Repositório ↗](https://github.com/luizGDpulz/mcp-spotify-curator) |
+
+</details>
 
 ---
 
@@ -106,6 +157,7 @@ Desenvolvedor Full-Stack e Arquiteto de Software focado em transformar problemas
 </details>
 
 </div>
+
 
 ---
 
