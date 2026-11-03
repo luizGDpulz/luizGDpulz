@@ -13,7 +13,7 @@
 
 ---
 
-<h3 align="center">⚡ Sobre Mim & Filosofia de Engenharia</h3>
+<h3 align="center">⚡ Sobre Mim & Filosofia de Desenvolvimento</h3>
 
 <p align="center">
   <em>"O conhecimento dita o código. Sistemas resilientes, arquitetura limpa e precisão técnica."</em>
@@ -27,7 +27,7 @@ Desenvolvedor Full-Stack e Arquiteto de Software focado em transformar problemas
 
 ---
 
-<h3 align="center">🛠️ Matriz de Tecnologias & Especialidades</h3>
+<h3 align="center">🛠️ Tecnologias & Especialidades</h3>
 
 | Camada / Domínio | Especialidades & Aplicação Prática | Ecossistema & Ferramentas |
 | :--- | :--- | :---: |
@@ -38,7 +38,7 @@ Desenvolvedor Full-Stack e Arquiteto de Software focado em transformar problemas
 
 ---
 
-<h3 align="center">🎯 Vitrine Técnica & Projetos em Destaque</h3>
+<h3 align="center">🎯 Projetos em Destaque</h3>
 
 <table>
   <tr>
@@ -122,12 +122,11 @@ Desenvolvedor Full-Stack e Arquiteto de Software focado em transformar problemas
 </table>
 
 <details>
-  <summary><b>🔍 Outros Projetos & Ferramentas Corporativas</b></summary>
+  <summary><b>🔍 Outros Projetos</b></summary>
   <br>
 
 | Projeto | Domínio / Arquitetura | Stack Principal | Link |
 | :--- | :--- | :--- | :---: |
-| **Secullum DB Migrations** | Pipeline de migração in-memory com resolução de grafo de chaves estrangeiras, imutabilidade da base legada e integridade estrita. | `C#` `.NET 8` `SQL Server` | *Privado / Core* |
 | **pulz.dev.br** | Plataforma de engenharia e portfólio pessoal com renderização SSG em Astro, internacionalização completa e sync de repositórios. | `Astro` `TypeScript` `Tailwind CSS` | [pulz.dev.br ↗](https://pulz.dev.br) |
 | **mcp-spotify-curator** | Curadoria autônoma de playlists e inteligência musical via Model Context Protocol. | `TypeScript` `Spotify API` `MCP` | [Repositório ↗](https://github.com/luizGDpulz/mcp-spotify-curator) |
 
@@ -147,7 +146,7 @@ Desenvolvedor Full-Stack e Arquiteto de Software focado em transformar problemas
 
 <!-- Menu Expansível / Recolhível da Cobrinha -->
 <details align="center">
-  <summary><b>🐍 Contribuições (Expandir / Recolher)</b></summary>
+  <summary><b>🐍 Contribuições</b></summary>
   <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizGDpulz/luizGDpulz/output/github-contribution-grid-snake-dark.svg">
@@ -161,7 +160,7 @@ Desenvolvedor Full-Stack e Arquiteto de Software focado em transformar problemas
 
 ---
 
-<h3 align="center">📫 Conecte-se comigo</h3>
+<h3 align="center">📫 Contato</h3>
 
 <div align="center">
 
