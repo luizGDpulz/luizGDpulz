@@ -168,7 +168,6 @@ Desenvolvedor Full-Stack e Arquiteto de Software focado em transformar problemas
   <a href="https://pulz.dev.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-pulz.dev.br-0D1117?style=flat&logo=googlechrome&logoColor=58A6FF" height="28" alt="Portfólio" /></a>
   <a href="https://linkedin.com/in/luizpulz"><img src="https://img.shields.io/badge/LinkedIn-Luiz%20Pulz-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
   <a href="mailto:luizg.pulz@gmail.com"><img src="https://img.shields.io/badge/Email-luizg.pulz%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
-  <a href="https://wa.me/5551992270465"><img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=flat&logo=whatsapp&logoColor=white" height="28" alt="WhatsApp" /></a>
 </p>
 
 <br>
